@@ -1,23 +1,22 @@
-# Hi, I'm Asmita 👋
+<h1 align="center">Hey, I'm Asmita 👋</h1>
 
-### Student Developer | Learning to Build Real Software
+<p align="center">
+  <b>Student Developer • AI/ML • Building things that solve problems</b>
+</p>
 
-I'm currently a student learning programming and software development step by step.  
-Right now, I'm focused on building strong fundamentals, improving problem-solving skills, and creating projects that help me learn by doing.
-
+<p align="center">
+  currently learning → <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>AI/ML</code> <code>FastAPI</code> <code>RAG</code>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+### currently building
 
-- Python
-- Java
-- JavaScript
-- MERN Stack
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Artificial Intelligence & Machine Learning
+🚀 **TIET NExus** — campus intelligence platform  
+🤖 **RAG systems** — LLMs + retrieval
 
+### learning in public
 
+DSA · OOP · Backend · AI Engineering
 
-
+> *build → break → learn → repeat*
